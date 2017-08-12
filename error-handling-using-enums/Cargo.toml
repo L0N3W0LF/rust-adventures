@@ -1,0 +1,6 @@
+[package]
+name = "returning-multiple-results"
+version = "0.1.0"
+authors = ["Ferdinand Bermudez <code@ferdinandbermudez.com>"]
+
+[dependencies]
