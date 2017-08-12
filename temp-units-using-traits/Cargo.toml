@@ -1,6 +1,6 @@
 [package]
 name = "temp-units-using-traits"
 version = "0.1.0"
-authors = ["Luke"]
+authors = ["Ferdinand Bermudez <code@ferdinandbermudez.com>"]
 
 [dependencies]

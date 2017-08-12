@@ -1,4 +1,4 @@
 [root]
-name = "returning-multiple-results"
+name = "error-handling-using-enums"
 version = "0.1.0"
 
